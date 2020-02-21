@@ -2,7 +2,8 @@
 - https://github.com/webpack-contrib/webpack-bundle-analyzer/issues/333
 
 ## Run
-Run `npm run bundle`
+1. `npm install`
+2. `npm run bundle`
 
 ### webpack error
 ```
